@@ -8,7 +8,9 @@ This is example to show the diferent parts of the git repository and various com
 using a web project.
 
 ## Purpose
-
+as  stated above
 ##Deployment
+this is a simple web project, deployment can be on any web server or even local file system.
+
 
 Sample website with plenty of files for demos
