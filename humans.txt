@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+	William student none
     <name> -- <role> -- <twitter>
 
 # THANKS
