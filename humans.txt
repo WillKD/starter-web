@@ -6,7 +6,7 @@
     <name> -- <role> -- <twitter>
 
 # THANKS
-
+	to Intructor Jason Taylor
     <name>
 
 # TECHNOLOGY COLOPHON
