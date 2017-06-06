@@ -2,7 +2,7 @@
 
 this is a simple website project fot showing how to use Git and Github together.
 This repository is for showing how Git and GitHub work. adding a line of text.
-More changes from branch 2.
+More changes from branch 2. Update 4 Emergency fix.
 
 ##Introduction
 This is example to show the diferent parts of the git repository and various commands
